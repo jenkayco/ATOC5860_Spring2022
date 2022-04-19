@@ -6,7 +6,7 @@ Last updated: April 19, 2022
 0) Lecture code in folder lecture_code
 
 1) Application Lab #1 files in the folder lab1
-ATOC5860_applicationlab1.docx = guidance for the lab on statistical significance testing, start here
+ATOC5860_applicationlab1.docx = guidance for the lab on statistical significance testing
 ATOC5860_applicationlab1_bootstrapping.ipynb
 ATOC5860_applicationslab1_ztest_ttest.ipynb
 TS_timeseries_cesmle_1850.nc
@@ -15,7 +15,7 @@ nino34.long.anom.data.txt
 snow_enso_data.csv
 
 2) Application Lab #2 files in folder lab2
-ATOC5860_applicationlab2_guidance.docx - guidance for the lab on regression/autocorrelation/AR1 process, start here
+ATOC5860_applicationlab2_guidance.docx - guidance for the lab on regression/autocorrelation/AR1 processes
 ATOC5860_applicationlab2_AR1_Nstar.ipynb
 ATOC5860_applicationlab2_AR1_regression_AO.ipynb
 christman_2016.csv
@@ -50,7 +50,7 @@ ATOC5860_applicationlab5_ENSO_mrbutterworth.ipynb - filter analysis of ENSO in a
 CESM1_LENS_Coupled_Control.cvdp_data.401-2200.nc - data for lab5. The data are available on github and can be pushed from the command line.  
 But the data are considered large (68 MB) and cannot be pushed via the web-based github GUI.
 
-6) Application Lab #6 in folder lab6
+6) Application Lab #6 files in folder lab6
 ATOC5860_applicationlab6.docx - guidance on lab6 machine learning
 ATOC5860_applicationlab6_cluster_mesa_data.ipynb - k-means clustering of weather data from Boulder, Colorado
 NCAR_mesa_data_2016-2021_withmissing.csv - data needed for ATOC5860_applicationlab6_cluster_mesa_data.ipynb
