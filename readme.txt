@@ -29,7 +29,8 @@ ATOC5860_applicationlab3_eigenfaces.ipynb - application lab on EOF/PCA of faces
 att_faces.npy - data needed for ATOC5860_applicationlab3_eigenfaces.ipynb
 ***Note: The data needed for ATOC5860_applicationlab3_eof_analysis_cosineweighting_cartopy.ipynb are too big to upload to github***
 ***Please download yourself from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
-or if logged into CU account from https://drive.google.com/file/d/10-hoqJQPrwOj8cXeel6-EcXU_zPuAkXZ/view?usp=sharing3) 
+or from https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/jeka1927_colorado_edu/EfvHYjNoSs9GjWGUcqjP8A0BEuHUa5Cd0nUOOd3TuC5S3g?e=yifug4
+or if logged into CU account from https://drive.google.com/file/d/10-hoqJQPrwOj8cXeel6-EcXU_zPuAkXZ/view?usp=sharing3) (will expire Jan. 2023)
 
 4) Application Lab #4 files in folder lab4
 ATOC5860_applicationlab4.docx - guidance for lab4 on spectral analysis
